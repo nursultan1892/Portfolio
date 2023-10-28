@@ -1,0 +1,14 @@
+.navs {
+  display: flex;
+  margin-top: 3%;
+}
+.nav-link {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: #00fefb;
+}
+.heads {
+  display: flex;
+  justify-content: space-between;
+}
